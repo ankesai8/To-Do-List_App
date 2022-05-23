@@ -6,6 +6,14 @@
 
 >  where [MVP](https://www.productplan.com/glossary/minimum-viable-product/) stands Minimum Viable Product
 
+# What is a Minimum Viable Product?
+
+A minimum viable product, or MVP, is a product with enough features to attract early-adopter customers and validate a product idea early in the product development cycle. In industries such as software, the MVP can help the product team receive user feedback as quickly as possible to iterate and improve the product.
+
+
+
+
+
 
 
 
