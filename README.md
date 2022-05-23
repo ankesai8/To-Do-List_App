@@ -73,16 +73,12 @@ Step 4 - Make a Request to the Node.js Server<br/>
   </details>
 
 
- Routes are routed in  in seperate folders and router functions are initlaized in that particular js files.
-
- shared folder contains the data for the particular router files.
-
- server.js is the root file of the server which contains only the middlewares.
-
 **What to do after cloning code?**
 
 <br/>
-1. Run  npm install --> This is needed for installing node_modules.
+1. Run  npm install --> This is needed for installing node_modules. After Installing necessary Libraries move To step2
+2. Run  node server.js
+3. Go to [Localhost](http://localhost:5000/) to view your backend
 
 
 **Checklist before merging.**
