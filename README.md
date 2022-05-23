@@ -74,10 +74,11 @@ Step 4 - Make a Request to the Node.js Server<br/>
 
 
 ## What to do after cloning code?**
-
 <br/>
 1. Run  npm install --> This is needed for installing node_modules. After Installing necessary Libraries move To step2 <br/>
+
 2. Run  node server.js <br/>
+ 
 3. Go to [Localhost](http://localhost:5000/) to view your backend <br/>
 
 
