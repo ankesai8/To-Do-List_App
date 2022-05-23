@@ -43,8 +43,6 @@ Step 4 - Make a Request to the Node.js Server<br/>
 <details>
 <summary>View Details</summary>
 
-#### MongoDb Atlas
-
 - [MongoDb Atlas](https://www.mongodb.com/)
 
   </details>
