@@ -4,7 +4,7 @@
 
 # Create and deploy a MVP-P1 Backend using Express
 
->  where [MVP](https://www.productplan.com/glossary/minimum-viable-product/) stands Minimum Viable Product
+>  where <i>[MVP](https://www.productplan.com/glossary/minimum-viable-product/)</i> stands Minimum Viable Product
 
 # What is a Minimum Viable Product?
 
