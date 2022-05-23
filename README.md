@@ -80,11 +80,10 @@ Step 4 - Make a Request to the Node.js Server<br/>
 <summary>View Details</summary>
    
    [Server.js]()-> Root File where programmer can initlize  functions passed and will be executed when the client goes to the url http://localhost:5000<br/>
-   [Mongo.js]() -> MongoDB is one of the most popular NoSQL databases around. It is fairly easy to use and understand when compared with SQL databases. But it is a  schemaless database. When working with NodeJS, we can use mongoose ODM to define a schema for a MongoDB collection.<br/> A mongoose schema defines the shape of documents inside a particular collection.<br/>
-   [Routes.js]()->  contains Route paths, in combination with a request method, define the endpoints at which requests can be made.<br/>
+   [Mongo.js]() -> MongoDB is one of the most popular NoSQL databases around. It is fairly easy to use and understand when compared with SQL databases. But it is a                        schemaless database. When working with NodeJS, we can use mongoose ODM to define a schema for a MongoDB collection.<br/> A mongoose schema defines                      the shape of documents inside a particular collection.<br/>
+   [Routes.js]()-> contains Route paths, in combination with a request method, define the endpoints at which requests can be made.<br/>
+   [.env]()->      In simple term, it is a variable text file keep as secret and secure because in .env file we store our database password, username, API key etc…
  </details>
-   [.env]()-> Its environment variables file In simple term, it is a variable text file. In this file we set a variable with value and that you wouldn’t want to share with anyone, purpose of file is keep as secret and secure because in .env file we store our database password, username, API key etc…
-
 ## What to do after cloning code?
 1. Run  npm install --> This is needed for installing node_modules. After Installing necessary Libraries move To step2 <br/>
 
