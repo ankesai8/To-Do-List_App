@@ -38,19 +38,11 @@ Step 3 - Once you run this command, a new window will popup at localhost:3000 wi
         
 #### [Javascript](https://htmlcheatsheet.com/js/)
         
-- [Express.js](http://expressjs.com/)
-- [Node.js](https://nodejs.org/en/about/)
+- [HTML](https://html.spec.whatwg.org/)
+- [CSS](https://www.w3schools.com/Css/)
         
     </details>
     
-### 🗃️ Databases
-
-<details>
-<summary>View Details</summary>
-
-- [MongoDb Atlas](https://www.mongodb.com/)
-
-  </details>
   
   ### 🔧 Tools
 
@@ -61,22 +53,22 @@ Step 3 - Once you run this command, a new window will popup at localhost:3000 wi
         
 - [Git](https://git-scm.com/about)
 - [Visual Studio Code](https://code.visualstudio.com/docs)
-- [Postman](https://blog.postman.com/?_ga=2.127388804.820823733.1653291231-2104550954.1653291231)
 
 #### Libraries Included
-
-- [AWS-SDK](https://www.npmjs.com/package/aws-sdk)
-- [Cors](https://www.npmjs.com/package/axios)
-- [Dotenv](https://www.npmjs.com/package/dotenv)
+          
 - [Axios](https://www.npmjs.com/package/axios)
-- [Express](https://www.npmjs.com/package/express)
-- [Mongoose](https://www.npmjs.com/package/mongoose)
-- [Multer](https://www.npmjs.com/package/multer)
-- [Multer-S3](https://www.npmjs.com/package/multer-s3) 
-- [Nodemon](https://www.npmjs.com/package/nodemon)
-       
-  </details>
+- [bootstrap](https://getbootstrap.com/)
+- [chart.js](https://www.chartjs.org/)
+- [React](https://reactjs.org/docs/getting-started.html)
+- [React-bootstrap](https://react-bootstrap.github.io/)
+- [React-chartjs-2](https://react-chartjs-2.js.org/)
+- [React-icons](https://react-icons.github.io/react-icons/)
+- [AWS-SDK](https://www.npmjs.com/package/aws-sdk)
+- [React-router-dom](https://www.npmjs.com/package/react-router-dom)
+- [React-Dom](https://www.npmjs.com/package/react-dom)
+- [Web-Vitals](https://www.npmjs.com/package/web-vitals)
 
+   </details>
   
   ### 📚 Folder Structure
   
@@ -84,17 +76,30 @@ Step 3 - Once you run this command, a new window will popup at localhost:3000 wi
 <details>
 <summary>View Details</summary>
    
-   [Server.js]()-> Root File where programmer can initlize  functions passed and will be executed when the client goes to the url http://localhost:5000<br/>
-   [Mongo.js]() -> MongoDB is one of the most popular NoSQL databases around. It is fairly easy to use and understand when compared with SQL databases. But it is a                        schemaless database. When working with NodeJS, we can use mongoose ODM to define a schema for a MongoDB collection.<br/> A mongoose schema defines                      the shape of documents inside a particular collection.<br/>
-   [Routes.js]()-> contains Route paths, in combination with a request method, define the endpoints at which requests can be made.<br/>
-   [.env]()->      In simple term, it is a variable text file keep as secret and secure because in .env file we store our database password, username, API key etc…
- </details>
-## What to do after cloning code?
-1. Run  npm install --> This is needed for installing node_modules. After Installing necessary Libraries move To step2 <br/>
+   [App.js]() -> Root file where the components are rendered inside the function and the required values for the particular component are given as props.<br/>
+          
+   [Components]
+                 ->Assests (here the buttons and other re-usable components are structured) 
+                 ->Requirements 
+                 ->ControlDetails
+                 ->Compliance status
+                 ->LeftNavBar
+                 ->TopNavBar
 
-2. Run  node server.js <br/>
+ </details>
  
-3. Go to [Localhost](http://localhost:5000/) to view your backend <br/>
+## What to do after cloning code?
+1. Create a React app In directory where u want to live
+   npx create-react-app react-tutorial
+  
+2. Change directory to go into the react app 
+   cd react-tutorial 
+   
+3. Run  npm install --> This is needed for installing node_modules. After Installing necessary Libraries move To step4 <br/>
+
+4. Run  npm start <br/>
+ 
+4. Go to [Localhost](http://localhost:3000/) to view your FrontEnd <br/>
 
 
 **Checklist before merging.**
