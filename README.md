@@ -1,6 +1,6 @@
 # Click[https://stellar-stardust-71aacd.netlify.app/]
 
-# Create and Deploy a MVP-P1 Backend using [Express](http://expressjs.com/) and [Node.js](https://nodejs.org/en/about/)
+# Create and Deploy a MVP-P1 FrontEnd  using [React](https://reactjs.org/docs/getting-started.html) 
 
 >  where <i>[MVP](https://www.productplan.com/glossary/minimum-viable-product/)</i> stands <i>Minimum Viable Product</i>
 
@@ -10,11 +10,14 @@ A minimum viable product, or MVP, is a product with enough features to attract e
 
 Feel free to take a look. You might learn new things. They have been designed to provide a quick way to assess your knowledge and to save you time.
 
-# [A Beginner's Guide to Back-End Development](https://www.upwork.com/resources/beginners-guide-back-end-development)
+# [A Beginner's Guide to Front-End Development](https://www.freecodecamp.org/news/a-practical-guide-to-learning-front-end-development-for-beginners-da6516505e41/)
 
-## [Follow the following steps to build Backend for MVP-P1](https://www.tutorialspoint.com/nodejs/nodejs_first_application.htm)
+## [Follow the following steps to build Frontend for MVP-P1](https://www.taniarascia.com/getting-started-with-react/)
 
-Step 1 - Import Required Module <br/>
+Step 1 - To set up create-react-app, Run the following code in your terminal, 
+          one directory up from where you want the project to live.
+          
+          <h3>npx create-react-app react-tutorial</h3>
 
 Step 2 - Create Server<br/>
 
