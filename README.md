@@ -17,13 +17,15 @@ Feel free to take a look. You might learn new things. They have been designed to
 Step 1 - To set up create-react-app, Run the following code in your terminal, 
           one directory up from where you want the project to live.
           
-          <h3>npx create-react-app react-tutorial</h3>
+          npx create-react-app react-tutorial
 
-Step 2 - Create Server<br/>
+Step 2 - Once that finishes installing, move to the newly created directory and start the project
+           
+         cd react-tutorial && npm start
 
-Step 3 - Testing Request & Response<br/>
+Step 3 - Once you run this command, a new window will popup at localhost:3000 with your new React app.
 
-Step 4 - Make a Request to the Node.js Server<br/>
+         http://localhost:3000/
 
 
 ## 📚 Table of Contents
